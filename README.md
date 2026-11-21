@@ -2,7 +2,7 @@
 <h3 align="center">Systems Development student</h3>
 <h3 align="center">I live in Brazil</h3>
 <p align="center">
-  <img src="https://media0.giphy.com/media/IXjj4sUrrX2ypTz2Ry/giphy.gif" alt="Luxray">
+  <img src="https://media0.giphy.com/media/IXjj4sUrrX2ypTz2Ry/giphy.gif" width="180" alt="Luxray">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
